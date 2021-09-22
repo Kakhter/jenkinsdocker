@@ -41,7 +41,7 @@ namespace webapidocker
             {
                 app.UseDeveloperExceptionPage();
                 app.UseSwagger();
-                app.UseSwaggerUI(c => c.SwaggerEndpoint("/swagger/v1/swagger.json", "webapidocker v3"));
+                app.UseSwaggerUI(c => c.SwaggerEndpoint("/swagger/v1/swagger.json", "webapidocker v9"));
             }
 
             app.UseHttpsRedirection();
