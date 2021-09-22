@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\khali\\source\\repos\\webapidocker\\webapidocker.csproj": {}
+    "C:\\Research\\webapidocker\\webapidocker.csproj": {}
   },
   "projects": {
-    "C:\\Users\\khali\\source\\repos\\webapidocker\\webapidocker.csproj": {
+    "C:\\Research\\webapidocker\\webapidocker.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\khali\\source\\repos\\webapidocker\\webapidocker.csproj",
+        "projectUniqueName": "C:\\Research\\webapidocker\\webapidocker.csproj",
         "projectName": "webapidocker",
-        "projectPath": "C:\\Users\\khali\\source\\repos\\webapidocker\\webapidocker.csproj",
+        "projectPath": "C:\\Research\\webapidocker\\webapidocker.csproj",
         "packagesPath": "C:\\Users\\khali\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\khali\\source\\repos\\webapidocker\\obj\\",
+        "outputPath": "C:\\Research\\webapidocker\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\khali\\AppData\\Roaming\\NuGet\\NuGet.Config",
