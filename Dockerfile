@@ -7,7 +7,7 @@ EXPOSE 443
 EXPOSE 14041
 EXPOSE 5000
 EXPOSE 5001
-
+ENV ASPNETCORE_ENVIRONMENT=Development
 FROM mcr.microsoft.com/dotnet/sdk:5.0 AS build
 WORKDIR /src
 COPY ["webapidocker.csproj", "."]
