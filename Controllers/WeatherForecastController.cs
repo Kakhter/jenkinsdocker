@@ -13,7 +13,7 @@ namespace webapidocker.Controllers
     {
         private static readonly string[] Summaries = new[]
         {
-            "Freezing1", "Bracing1", "Chilly1", "Cool1", "Mil1", "Warm1", "Balmy1", "Hot1", "Sweltering1", "Scorching1"
+            "Freezing21", "Bracing21", "Chilly2", "Cool21", "Mil21", "Warm2", "Balmy21", "Hot21", "Sweltering21", "Scorching21"
         };
 
         private readonly ILogger<WeatherForecastController> _logger;
